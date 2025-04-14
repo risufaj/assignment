@@ -35,5 +35,6 @@ We used the following CSV files (provided by the US Census dataset sample):
 - `README.md`: This documentation
 - Additional scripts or notebooks for **EDA**, **transformations**, **modeling** steps
 - Presentation
+- MLFlow tracking of the experiments conducted in this task. Please unzip. 
 
 
